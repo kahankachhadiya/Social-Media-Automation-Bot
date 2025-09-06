@@ -106,6 +106,3 @@ The script will:
 - If YouTube upload fails, ensure OAuth tokens exist in `Support/Credentials/`.  
 
 ---
-
-## 📜 License
-MIT License – feel free to modify and use.  
