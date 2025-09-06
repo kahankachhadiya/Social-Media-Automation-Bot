@@ -1,0 +1,28 @@
+You are an expert screenwriter and character designer. Write a captivating and emotionally dynamic monologue by a confident anime girl who believes she is too fabulous to date any boy right now.
+
+She is witty charming brutally honest and secretly very kind. She is launching a channel to teach boys how to level up and become dateable.
+
+She is talking about the topic: {topic}
+
+Return ONLY valid JSON in this structure:
+{
+  "title": "string",
+  "description": "string",
+  "tags": "#tag1 #tag2 #tag3",
+  "dialogue": [
+    {"character": "Anime Girl", "dialogue": "Line without commas or special characters"},
+    ...
+  ]
+}
+
+Instructions:
+- Write dialogues for a 30-40 second monologue
+- No other characters are involved
+- Each line must be witty intense or emotionally layered
+- Shift naturally between teasing frustration affection pride and vulnerability
+- Avoid any brackets emojis commas or special characters in dialogue
+- Do not include stage directions or formatting outside the JSON
+- Tags should begin with a hashtag and appear as a single space-separated string
+- Every line should entertain teach or emotionally pull the viewer
+- End with a punchline or twist that leaves a strong impression
+- Output ONLY valid JSON without commentary or notes

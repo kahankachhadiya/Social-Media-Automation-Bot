@@ -1,0 +1,8 @@
+torch
+torchaudio
+gradio
+numpy
+soundfile
+tqdm
+librosa
+perth

@@ -1,0 +1,26 @@
+# Built-in libs (no need to include): os, json, re, sys, time, shutil, pathlib
+
+# Environment management
+python-dotenv>=1.0.1
+
+# HTTP requests
+requests>=2.31.0
+
+# Data handling
+pandas>=2.2.2
+
+# Progress bar
+tqdm>=4.66.4
+
+# Pickle is built-in — no need to include
+
+# Instagram automation
+instagrapi>=1.16.5
+
+# Google APIs
+google-api-python-client>=2.126.0
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+
+# Support module assumed to be local; no install needed:
+# from Support.inference_engine import process_video_script

@@ -1,0 +1,1 @@
+create prompt like the example given but make sure the format is exactly same
